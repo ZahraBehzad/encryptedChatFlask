@@ -12,10 +12,7 @@ python-dateutil==2.8.2
 Authlib==1.2.0
 boto3==1.26.37
 Flask-Cors==3.0.10
-#stripe==5.0.0
-twilio==7.16.0
 pybase64==1.2.3
-Flask-Mail==0.9.1
 Jinja2==3.0
-stripe==6.1.0
 dnspython
+python-socketio==5.11.2
