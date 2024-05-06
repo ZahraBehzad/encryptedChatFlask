@@ -16,3 +16,4 @@ pybase64==1.2.3
 Jinja2==3.0
 dnspython
 python-socketio==5.11.2
+Flask-SocketIO==5.3.6
