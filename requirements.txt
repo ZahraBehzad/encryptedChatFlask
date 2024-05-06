@@ -11,5 +11,4 @@ Authlib==1.2.0
 Flask-Cors==3.0.10
 Jinja2==3.0
 dnspython
-python-socketio==5.11.2
 Flask-SocketIO==5.3.6
